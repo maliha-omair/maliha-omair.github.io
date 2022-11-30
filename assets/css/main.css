@@ -2558,6 +2558,7 @@ input, select, textarea {
 				.wrapper.style3-alt .icon.major:before {
 					color: #953d75;
 				}
+				
 
 /* Image */
 
@@ -3263,6 +3264,9 @@ input, select, textarea {
 			background-color: #953d75;
 		}
 
+		.wrapper.style4 {
+			background-color: #9271bb;
+		}
 		.wrapper.fullscreen {
 			display: -moz-flex;
 			display: -webkit-flex;
@@ -3906,4 +3910,27 @@ input, select, textarea {
 				background-attachment: scroll;
 			}
 
+		}
+		.eatsyImage{
+			width: 450px;
+			height: 300px; 
+		}
+
+		.eatsySection{
+			display: flex;
+			flex-direction: row;
+		}
+
+		.eatsyDiv{
+			display: flex;
+			flex-direction: column;
+			margin-left: 15px;
+		}
+
+		.projects{
+			margin-bottom: 15px;
+		} 
+		.UCPSection{
+			display: flex;
+			flex-direction: column;
 		}
