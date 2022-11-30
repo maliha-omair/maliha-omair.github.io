@@ -3265,7 +3265,10 @@ input, select, textarea {
 		}
 
 		.wrapper.style4 {
-			background-color: #9271bb;
+			background-color: #1e1e41;
+		}
+		.wrapper.style5{
+			background-color: #c6aae7;
 		}
 		.wrapper.fullscreen {
 			display: -moz-flex;
@@ -3933,4 +3936,39 @@ input, select, textarea {
 		.UCPSection{
 			display: flex;
 			flex-direction: column;
+		}
+
+		.nodejs{
+			height: 100px;
+			width: 100px;
+			background-color: #339933;
+		}
+		.javascript{
+			height: 100px;
+			width: 100px;
+			background-color: #F7DF1E;
+		}
+		.react{
+			height: 100px;
+			width: 100px;
+			background-color: #61DAFB;
+		}
+		.redux{
+			height: 100px;
+			width: 100px;
+			background-color: #764ABC;
+		}
+		.python{
+			height: 100px;
+			width: 100px;
+			background-color: #3776AB;
+		}
+		.postgresSQL{
+			height: 100px;
+			width: 100px;
+			background-color: #4169E1;
+		}
+		.expressJs{
+			height: 100px;
+			width: 200px;
 		}
