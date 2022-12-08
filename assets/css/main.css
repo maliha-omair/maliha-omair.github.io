@@ -3265,10 +3265,14 @@ input, select, textarea {
 		}
 
 		.wrapper.style4 {
-			background-color: #1e1e41;
+			background-color: #9F73AB;
 		}
 		.wrapper.style5{
-			background-color: #c6aae7;
+			background-color: #9254C8;
+		}
+
+		.wrapper.style7{
+			background-color: #7F5283;
 		}
 		.wrapper.fullscreen {
 			display: -moz-flex;
@@ -3971,4 +3975,15 @@ input, select, textarea {
 		.expressJs{
 			height: 100px;
 			width: 200px;
+		}
+
+		.innerDiv{
+			display:flex;
+			flex-direction: row;
+		}
+
+		.headings{
+			display: flex;
+			flex-direction: column;
+			min-width: 40%;
 		}
