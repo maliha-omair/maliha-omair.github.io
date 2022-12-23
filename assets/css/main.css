@@ -3957,6 +3957,13 @@ input, select, textarea {
 			width: 100px;
 			background-color: #61DAFB;
 		}
+
+		.reactQuery{
+			height: 100px;
+			width: 100px;
+			background-color: black;
+		}
+
 		.redux{
 			height: 100px;
 			width: 100px;
